@@ -2,7 +2,7 @@
 
 ### Plotting vaccination intention: An intro to data viz in R with ggplot2 with Zoey Dlott and Megan Richard
 
-About R-Ladies St. Louis Intro slides: 
+About R-Ladies St. Louis Intro slides: https://rladiesstl.github.io/meetup-mar-2021/
 
 Link to the speaker's repository for the talk: 
 
