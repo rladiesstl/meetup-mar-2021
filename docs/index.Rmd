@@ -1,0 +1,98 @@
+---
+title: "Welcome to R-Ladies St. Louis"
+author: "Plotting vaccination intention: An intro to data viz in R with ggplot2"
+date: "March 9, 2021"
+output:
+  xaringan::moon_reader:
+    css: ["default", "rladies", "rladies-fonts"]
+    nature: 
+        highlightLines: true
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+# Materials for tonight 
+
+<br>
+
+- All materials can be found here:
+
+- Packages to install:
+
+
+---
+
+# What is R-Ladies?
+
+- R-Ladies is a world-wide organization with the mission of promoting **gender diversity in the R community**  
+
+- Started in San Francisco in 2012 and now has **198 chapters and more than 84,000** members globally (check out rladies.org for a Shiny dashboard)
+
+```{r, echo=FALSE, fig.align="center", out.width='70%'}
+knitr::include_graphics("https://pbs.twimg.com/media/EPlDKUQUcAEq5pw?format=jpg&name=small")
+
+```
+
+---
+
+# R-Ladies St. Louis 
+
+* Started in September 2017 by Jenine Harris and Chelsea West 
+
+* 4 Meetups in 2017-2018, 5 Meetups in 2018-2019, 5 in 2019-2020, and 7 scheduled for 2020-21!
+
+* Co-organizers for 2020-21 include:
+
+  - Jenine Harris (Washington University)  
+    
+  - Mary Painter (Univeristy of Missouri)  
+    
+  - Shelly Cooper (Washington University)  
+    
+  - Crystal Lewis (University of Missouri)
+  
+---
+  
+# 2020-21 Schedule
+
+* Spring lineup
+    
+    - **TODAY! Our 20th Meetup**: Plotting vaccination intention: An intro to ggplot2 with **Zoey Dlott & Megan Richard** (Washington University)  
+    
+    - April 13th: Time Series in R with **Laura Rose** (Mallinckrodt Pharmaceuticals)
+    
+* RSVP on Meetup
+
+* We will be recording this meetup
+  
+    - Feel free to turn off your cameras if you do not want to be recorded
+    - Use the chat to ask questions (to everyone **or** directly to the host)
+
+---
+
+# Want to learn more or get involved?
+
+- Visit **rladies.org** to learn about the mission and global work of R-Ladies 
+
+- Connect with R-Ladies St. Louis 
+    + Email us at <a href = "mailto:rladiesstl@gmail.com">rladiesstl@gmail.com</a> 
+    + Follow us on Twitter <a href="https://twitter.com/RLadiesSTL">@rladiesstl</a>
+    + Connect with us on <a href="https://www.meetup.com/R-Ladies-St-Louis/">Meetup</a>
+    
+<img src = "https://github.com/rladies/starter-kit/blob/master/logo/R-LadiesGlobal_RBG_online_LogoOnly.png?raw=true" width = 250/><img src = "https://media.giphy.com/media/3o7abBphHJngINCHio/giphy.gif" width = "300" align = "right"/>
+
+---
+
+# About tonight's speakers
+
+- Zoey is an advanced standing MSW student at Washington University.
+
+- She is interested in healthcare accessibility and in her free time enjoys baking and exploring coffee shops. 
+
+- Megan is a first year MPH student at Washington University.
+
+- She is passionate about the environment and sweet tea.
+
+
