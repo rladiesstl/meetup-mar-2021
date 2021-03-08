@@ -9,4 +9,5 @@ Link to the speaker's repository for the talk: https://github.com/jenineharris/v
 ### Required packages:
 
 here
+
 tidyverse
