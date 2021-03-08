@@ -21,9 +21,9 @@ options(htmltools.dir.version = FALSE)
 
 - Packages to install: 
 
-here
+    + here
 
-tidyverse
+    + tidyverse
 
 
 ---
@@ -93,10 +93,7 @@ knitr::include_graphics("https://pbs.twimg.com/media/EPlDKUQUcAEq5pw?format=jpg&
 
 - Zoey is an advanced standing MSW student at Washington University.
 
-- She is interested in healthcare accessibility and in her free time enjoys baking and exploring coffee shops. 
-
 - Megan is a first year MPH student at Washington University.
 
-- She is passionate about the environment and sweet tea.
 
 
