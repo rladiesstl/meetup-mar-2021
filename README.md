@@ -14,4 +14,4 @@ Install two packages if you don't already have them:
 
 * tidyverse
 
-*NOTE: The workshop assumes at least some familiarity with using R and R Studio.*
+*NOTE: The workshop assumes at least some familiarity with using R and R Studio. To follow along you will need to have R and R Studio installed before the workshop begins.*
