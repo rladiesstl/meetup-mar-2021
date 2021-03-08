@@ -4,6 +4,9 @@
 
 About R-Ladies St. Louis Intro slides: https://rladiesstl.github.io/meetup-mar-2021/
 
-Link to the speaker's repository for the talk: 
+Link to the speaker's repository for the talk: https://github.com/jenineharris/vaxxIntentionRLadies
 
 ### Required packages:
+
+here
+tidyverse
