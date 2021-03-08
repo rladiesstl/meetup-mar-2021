@@ -4,10 +4,14 @@
 
 About R-Ladies St. Louis Intro slides: https://rladiesstl.github.io/meetup-mar-2021/
 
-Link to the speaker's repository for the talk: https://github.com/jenineharris/vaxxIntentionRLadies
+### Before the workshop:
 
-### Required packages:
+Download the files from the speaker's repository: https://github.com/jenineharris/vaxxIntentionRLadies
 
-here
+Install two packages if you don't already have them:
 
-tidyverse
+* here
+
+* tidyverse
+
+*NOTE: The workshop assumes at least some familiarity with using R and R Studio.*
