@@ -17,9 +17,13 @@ options(htmltools.dir.version = FALSE)
 
 <br>
 
-- All materials can be found here:
+- All materials can be found here: https://github.com/jenineharris/vaxxIntentionRLadies
 
-- Packages to install:
+- Packages to install: 
+
+here
+
+tidyverse
 
 
 ---
